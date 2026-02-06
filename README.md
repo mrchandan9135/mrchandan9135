@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Chandan Mishra</h1>
 
-<!--
-**mrchandan9135/mrchandan9135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=520&lines=Python+Developer;Web+Developer;Future+Software+Engineer" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building real-world software with clarity and consistency
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mrchandan9135&style=flat&color=grey" />
+</p>
+
+---
+
+### 🚀 What I Focus On
+
+• Writing clean maintainable code  
+• Building useful applications  
+• Strong CS fundamentals  
+
+---
+
+### 🧠 Skills
+
+Python • Java • C  
+HTML • CSS • JavaScript  
+MySQL • GitHub  
+
+---
+
+### 📊 GitHub Progress
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mrchandan9135&show_icons=true&hide_title=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandan9135" />
+</p>
+
+---
+
+### 📌 Selected Work
+
+• Python automation tools  
+• Web applications  
+• DSA practice  
+• Database projects  
+
+---
+
+### 📫 Reach Me
+
+📧 Email: chandanmishra9135@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/chandan91  
+
+---
+
+> Code with purpose. Grow every day.
