@@ -1,61 +1,48 @@
-<h1 align="center">Chandan Mishra</h1>
+# Chandan Mishra
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=520&lines=Python+Developer;Web+Developer;Future+Software+Engineer" />
-</p>
+Computer Science & Engineering | Python Developer | Web Developer  
 
-<p align="center">
-Building real-world software with clarity and consistency
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mrchandan9135&style=flat&color=grey" />
-</p>
+Building practical software and strengthening core computer science skills.
 
 ---
 
-### 🚀 What I Focus On
+## About
 
-• Writing clean maintainable code  
-• Building useful applications  
-• Strong CS fundamentals  
+I am a CSE student focused on becoming a strong software engineer through hands-on projects and consistent learning.
 
----
-
-### 🧠 Skills
-
-Python • Java • C  
-HTML • CSS • JavaScript  
-MySQL • GitHub  
+I enjoy solving real-world problems, writing clean code, and improving my technical fundamentals.
 
 ---
 
-### 📊 GitHub Progress
+## Skills
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrchandan9135&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandan9135" />
-</p>
+Programming: Python, Java, C+ 
+Web: HTML, CSS, JavaScript  
+Database: MySQL  
+Tools: GitHub  
 
 ---
 
-### 📌 Selected Work
+## What I’m Working On
 
-• Python automation tools  
-• Web applications  
-• DSA practice  
-• Database projects  
-
----
-
-### 📫 Reach Me
-
-📧 Email: chandanmishra9135@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/chandan91  
+- Ai based medical help website 
+- Web applications  
+- Data structures and algorithms  
+- Database-driven projects  
 
 ---
 
-> Code with purpose. Grow every day.
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mrchandan9135&show_icons=true&hide_title=true)
+
+---
+
+## Contact
+
+Email: chandanmishra9135@gmail.com  
+LinkedIn: https://www.linkedin.com/in/chandan91  
+
+---
+
+Always learning. Always building.
